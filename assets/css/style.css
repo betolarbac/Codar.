@@ -134,7 +134,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #4154f1;
+  background: #D6000D;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -148,7 +148,7 @@ section {
 }
 
 .back-to-top:hover {
-  background: #6776f4;
+  background: #be3b44;
   color: #fff;
 }
 
@@ -2214,7 +2214,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  color: #012970;
+  color: #D6000D;
 }
 
 .footer .footer-newsletter form {
@@ -2242,14 +2242,14 @@ section {
   font-size: 16px;
   padding: 0 30px;
   margin: 3px;
-  background: #4154f1;
+  background: #D6000D;
   color: #fff;
   transition: 0.3s;
   border-radius: 4px;
 }
 
 .footer .footer-newsletter form input[type="submit"]:hover {
-  background: #5969f3;
+  background: #D6000D;
 }
 
 .footer .footer-top {
@@ -2284,7 +2284,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+  color: #D6000D;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -2299,20 +2299,20 @@ section {
 .footer .footer-top .social-links a {
   font-size: 20px;
   display: inline-block;
-  color: rgba(1, 41, 112, 0.5);
+  color: #D6000D;
   line-height: 0;
   margin-right: 10px;
   transition: 0.3s;
 }
 
 .footer .footer-top .social-links a:hover {
-  color: #012970;
+  color: #D6000D;
 }
 
 .footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #012970;
+  color: #D6000D;
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
@@ -2346,14 +2346,14 @@ section {
 }
 
 .footer .footer-top .footer-links ul a {
-  color: #013289;
+  color: #be3b44;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
 }
 
 .footer .footer-top .footer-links ul a:hover {
-  color: #4154f1;
+  color: #be3b44;
 }
 
 .footer .footer-top .footer-contact p {
@@ -2363,12 +2363,12 @@ section {
 .footer .copyright {
   text-align: center;
   padding-top: 30px;
-  color: #012970;
+  color: #be3b44;
 }
 
 .footer .credits {
   padding-top: 10px;
   text-align: center;
   font-size: 13px;
-  color: #012970;
+  color: #be3b44;
 }
