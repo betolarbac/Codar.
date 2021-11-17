@@ -3,9 +3,6 @@
 <img src='./assets/web.png'>
 
 
-# Mobile
-
-<img  src='./assets/mobile.png'>
 
 
 ## 🚀 Tecnologias utilizadas
